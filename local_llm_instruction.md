@@ -23,7 +23,7 @@
 2. باز کردن **Anaconda Prompt** و اجرای دستورات زیر:
 
    ```bash
-   conda create -n ollama python=3.10 -y
+   conda create -n ollama python=3.11 -y
    conda activate ollama
    pip install ollama
    ollama server start
@@ -74,7 +74,7 @@
 2. باز کردن **Terminal** و اجرای دستورات زیر:
 
    ```bash
-   conda create -n ollama python=3.10 -y
+   conda create -n ollama python=3.11 -y
    conda activate ollama
    pip install ollama
    ollama server start
